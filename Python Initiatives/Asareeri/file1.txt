@@ -1,0 +1,18 @@
+def GoogleSearch_command(update, context):
+        try:
+
+            search_results = search(text, num_results=num_results)
+            return search_results
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            return None
+
+
+text = str(update.message.text).lower()
+results = GoogleSearch_command(text)
+
+
+if results:
+    print("Search Results:")
+    for result in results:
+        update.message.reply_text(result)
