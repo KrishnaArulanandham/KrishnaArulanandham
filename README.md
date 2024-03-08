@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrishnaArulanandham
-- 👀 I’m interested in Learning new technologies by cracking it bit bit to know.
+- 👀 I’m interested in Learning new technologies by cracking it bit-by-bit to know.
 - 🌱 I’m currently learning FORNTEND DEVELOPMENT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/krishna-arulanandham-b42690286/
